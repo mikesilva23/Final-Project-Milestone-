@@ -1,0 +1,14 @@
+---
+title: "Final Project Milestone"
+author: "Mike Silva"
+date: "3/31/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+In Alex Lapolice's project, I like how uses multiple tibbles to show the year by year comparisons of his data. Having all the different tibbles makes it easier and more simple for the reader to understand and analyze on their own. I don't like how he didn't arrange the data in descending order for the last tibble. It's very unappealing and awkward how the numbers are presented. 
+In Charlie Olmert's project, I love his idea of using mapping to show shots, but it seems like he ran into some data issues because individual player data wasn't very empty for me. 
+Noah Reimer's project as a whole does a great job of cleanliness and organization. There is a clear explanation of the graph for each page, so readers can take it one step at a time and look at each page when they want to. It makes it a lot less hectic this way. 
